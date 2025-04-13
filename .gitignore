@@ -1,2 +1,4 @@
-.deps
+.deps/
 artifacts
+.states
+/zkSyncFundMe/artifacts/

@@ -5,7 +5,7 @@ import {PriceConverter} from "./PriceConverter.sol";
 
 error NotOwner();
 
-contract FundMe {
+contract FundMeZKSync {
     address public immutable i_owner;
     using PriceConverter for uint256;
 
